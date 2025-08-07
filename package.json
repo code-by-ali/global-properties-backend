@@ -4,7 +4,7 @@
   "description": "Node.js API with MySQL connection",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "dependencies": {
